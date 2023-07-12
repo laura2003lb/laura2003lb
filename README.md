@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laura2003lb
 - 👀 I’m interested in movies and books
 - 🌱 I’m currently learning programming, front-end and back-end
-- 💞️ I’m looking to collaborate on projects that related to my interests
+- 💞️ I’m looking to collaborate on projects that are related to my interests
 - 📫 How to reach me: https://www.linkedin.com/in/laura-bernardo-43761b1b0/
 
 <!---
